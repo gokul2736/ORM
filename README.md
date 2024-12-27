@@ -40,7 +40,8 @@ class BankloanAdmin(admin.ModelAdmin):
  
 ```
 # OUTPUT
-![alt text](<webserver/webapp/Screenshot (17).png>)
+![django 2](https://github.com/user-attachments/assets/eb590d79-b816-42ee-bb1a-95f8af62854d)
+![django 1](https://github.com/user-attachments/assets/312f151b-1988-4b02-a411-a6a3123d189f)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
